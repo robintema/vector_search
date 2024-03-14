@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  vector_search:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./app:/app

@@ -1,0 +1,5 @@
+chromadb
+GPT4All
+langchain
+langchain_community
+unstructured
